@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+image.jpg
+output.mp4
+pose_landmarker.task
+yolo11s-pose.pt
