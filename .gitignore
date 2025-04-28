@@ -179,3 +179,6 @@ yolo11s-pose.pt
 
 runs/
 video_data/
+annotated.gif
+keypoints_per_frame.json
+keypoints.gif
